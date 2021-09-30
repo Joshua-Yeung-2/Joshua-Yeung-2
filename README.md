@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-**Joshua-Yeung-2/Joshua-Yeung-2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Hello there, my name is Joshua Yeung, I am a student who studying in st.tresea high school 
+
+<h1 align="center">~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~</h1>
+<br>
 
 ## ✍ Programming Languages
 
