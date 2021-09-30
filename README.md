@@ -10,4 +10,4 @@ Hello there, my name is Joshua Yeung, I am a student who studying in st.tresea h
   
   
   <div align="center">
-<img src="https://i.imgur.com/jx17oHT.gif">
+<img src="https://tenor.com/view/smile-anime-cute-gif-15792815">
