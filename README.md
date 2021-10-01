@@ -26,4 +26,5 @@
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
  <div align="center">
  <img src="https://c.tenor.com/3fAZZncIHDQAAAAC/smile-anime.gif">
+  <br>
   <img src="https://c.tenor.com/7Pc-_oLkHpMAAAAC/anime-girl.gif">
