@@ -4,7 +4,7 @@
 <img src="https://c.tenor.com/AwMCvyYjPgAAAAAC/anime-welcome.gif">
 
 <p>
- <div align="middle"> 
+ <div align="left"> 
 ## ✍ Programming Languages
 
 <p>
