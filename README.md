@@ -21,4 +21,5 @@
   
   ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-<img src="https://c.tenor.com/3fAZZncIHDQAAAAC/smile-anime.gif">
+ <div align="center">
+ <img src="https://c.tenor.com/3fAZZncIHDQAAAAC/smile-anime.gif">
