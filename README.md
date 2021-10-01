@@ -13,5 +13,9 @@
   
   ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=white)
 <br>  
+  
+  ## 🔧 Tools
+  
+  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
   <div align="center">
 <img src="https://c.tenor.com/3fAZZncIHDQAAAAC/smile-anime.gif">
