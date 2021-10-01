@@ -1,5 +1,5 @@
 <h1 align="center">~ 💖 𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓟𝓻𝓸𝓯𝓲𝓵𝓮 💖 ~</h1>
-<h1 align="center">I am a Joshua Yeung, a student from st.teresa high school
+<h1 align="center">I am a Joshua Yeung, a student from St. Mother Teresa high school
 
 <br>
 <div align="center">
