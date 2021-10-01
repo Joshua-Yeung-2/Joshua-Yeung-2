@@ -6,8 +6,8 @@
 <img src="https://c.tenor.com/AwMCvyYjPgAAAAAC/anime-welcome.gif">
 
 <p>
-<h3 align="left"> 
- 
+<div align="left"> 
+ <br>
  
 ## ✍ Programming Languages
 
